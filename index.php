@@ -17,6 +17,11 @@
 				<td>dani</td>
 				<td>banjarmasin</td>
 			</tr>
+			<tr>
+				<td>2</td>
+				<td>isan</td>
+				<td>tabalong</td>
+			</tr>
 		</table>
 	</body>
 </html>
