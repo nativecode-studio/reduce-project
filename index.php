@@ -12,6 +12,11 @@
 				<th>nama</th>
 				<th>alamat</th>
 			</tr>
+			<tr>
+				<td>1</td>
+				<td>dani</td>
+				<td>banjarmasin</td>
+			</tr>
 		</table>
 	</body>
 </html>
